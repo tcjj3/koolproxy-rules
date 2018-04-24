@@ -60,4 +60,21 @@
 |https://googleads.g.doubleclick.net/pagead/*
 |https://s0.2mdn.net/instream/html5/survey/*
 
+|https://wap.xxbiquge.com/js/common.js$s@function style_head()@function style_head(){}function style_head_cracked()@
+|https://wap.xxbiquge.com/js/common.js$s@function style_top()@function style_top(){}function style_top_cracked()@
+|https://wap.xxbiquge.com/js/common.js$s@function style_middle()@function style_middle(){}function style_middle_cracked()@
+|https://wap.xxbiquge.com/js/common.js$s@function style_bottom()@function style_bottom(){}function style_bottom_cracked()@
+|https://wap.xxbiquge.com/js/common.js$s@function count()@function count(){}function count_cracked()@
+|https://wap.xxbiquge.com/js/common.js$s@function fanye2()@function fanye2(){}function fanye2_cracked()@
+|https://wap.xxbiquge.com/js/common.js$s@function tm()@function tm(){}function tm_cracked()@
+|https://wap.xxbiquge.com/js/common.js$s@function app3()@function app3(){}function app3_cracked()@
+|https://wap.xxbiquge.com/js/common.js$s@function app5()@function app5(){}function app5_cracked()@
+
+|https://m.555zw.com/js/wap.js$s@function _555zw_top()@function _555zw_top(){}function _555zw_top_cracked()@
+|https://m.555zw.com/js/wap.js$s@function _555zw_middle()@function _555zw_middle(){}function _555zw_middle_cracked()@
+|https://m.555zw.com/js/wap.js$s@function _555zw_bottom()@function _555zw_bottom(){}function _555zw_bottom_cracked()@
+|https://m.555zw.com/js/wap.js$s@function _555zw_tj()@function _555zw_tj(){}function _555zw_tj_cracked()@
+
+|https://m.555zw.com/js/tongji.js
+
 
