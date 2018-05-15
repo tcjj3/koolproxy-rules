@@ -52,5 +52,9 @@
 |http://www.wrestledrop.com/*
 |http://gagwoop.com/*
 ||pixel.quantserve.com
+|http://vamsoupowoa.com/*
+||my.rtmark.net
+||mt.rtmark.net
+|http://click.alibaba.com/*
 
 
