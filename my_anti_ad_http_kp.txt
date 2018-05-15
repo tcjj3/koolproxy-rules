@@ -48,5 +48,9 @@
 
 |http://stp.vivo.com.cn/push/arrive*
 ||tracktrace.cn
+|http://video.adlabsnetworks.com/*
+|http://www.wrestledrop.com/*
+|http://gagwoop.com/*
+||pixel.quantserve.com
 
 
