@@ -85,6 +85,7 @@
 |https://ads2.onlinevideoconverter.com/*
 |https://trends.revcontent.com/*
 |https://defpush.com/*
+|https://mc.yandex.ru/*
 ||static.criteo.net
 ||prebid.districtm.ca
 ||tag-st.contextweb.com
