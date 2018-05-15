@@ -77,6 +77,29 @@
 
 |https://m.555zw.com/js/tongji.js
 
-||tracktrace.cn
+|https://tracktrace.cn/*
+|https://clickiocdn.com/*
+|https://s.clickiocdn.com/*
+|https://prebid.adnxs.com/*
+|https://adexchange.clickio.com/*
+|https://ads2.onlinevideoconverter.com/*
+|https://trends.revcontent.com/*
+|https://defpush.com/*
+||static.criteo.net
+||prebid.districtm.ca
+||tag-st.contextweb.com
+||bid.contextweb.com
+||pa.rxthdr.com
+||hb.sekindo.com
+||adserver-us.adtech.advertising.com
+||adserver-eu.adtech.advertising.com
+||adserver-as.adtech.advertising.com
+||hb.nexage.com
+||acdn.adnxs.com
+||fqtag.com
+||cdn.revcontent.com
+||js.ad-score.com
+||trends.revcontent.com
+||revcontent-p0.s3.amazonaws.com
 
 
