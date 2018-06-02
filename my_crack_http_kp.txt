@@ -68,4 +68,11 @@
 |http://www.rkpass.cn/i/timu_anniu.jsp*$s@showtextarea1()@');viewAnswers=function(){html=document.body.innerHTML.replace(/&amp;/gi,"&");idx=html.indexOf("anniu");if(idx>-1){html=html.substring(idx);}if(window.location.pathname.indexOf("anli")>0||window.location.pathname.indexOf("lunwen")>0){var a=html;var index1=a.indexOf("product_id")+11;var index2=a.indexOf("&paper_id=");var product_id=a.substring(index1,index2);index1=a.indexOf("paper_id=")+9;index2=a.indexOf("&tihao");var paper_id=a.substring(index1,index2);index1=a.indexOf("tihao=")+6;index2=a.indexOf("&pass_per_tihao_url");var tihao=a.substring(index1,index2);if(window.location.pathname.indexOf("anli")>0){addinfotousertk('anli',product_id,paper_id,tihao,'http://www.rkpass.cn')}else{addinfotousertk('lunwen',product_id,paper_id,tihao,'http://www.rkpass.cn')}}else{var a=html;var index1=a.indexOf("product_id")+11;var index2=a.indexOf("&paper_id=");var product_id=a.substring(index1,index2);index1=a.indexOf("paper_id=")+9;index2=a.indexOf("&tihao");var paper_id=a.substring(index1,index2);index1=a.indexOf("tihao=")+6;index2=a.indexOf("&pass_per_tihao_url");var tihao=a.substring(index1,index2);addinfotousertk('xuanze',product_id,paper_id,tihao,'http://www.rkpass.cn')};};document.write('viewAnswers()@
 !  软考在线 查看答案解析 End
 
+!  去除水印 Start
+|http://www.rkpass.cn/tk_jiexi.jsp*$s@软考在线[rkpass.cn]@@
+|http://www.rkpass.cn/i/tk_jiexi.jsp*$s@软考在线[rkpass.cn]@@
+|http://www.educity.cn/tiku/images/8274001~8277000/*.png
+|http://www.rkpass.cn/image/logo_rkpass_mini_bg.jpg
+!  去除水印 End
+
 
