@@ -71,7 +71,9 @@
 !  去除水印 Start
 |http://www.rkpass.cn/tk_jiexi.jsp*$s@软考在线[rkpass.cn]@@
 |http://www.rkpass.cn/i/tk_jiexi.jsp*$s@软考在线[rkpass.cn]@@
-|http://www.educity.cn/tiku/images/8274001~8277000/*.png
+|http://www.educity.cn/tiku/images/8274001^8277000/*.png
+|http://www.cnitpm.com/images/examalbg.gif
+|http://www.cnitpm.com/images/examshowbgks.gif
 |http://www.rkpass.cn/image/logo_rkpass_mini_bg.jpg
 !  去除水印 End
 
