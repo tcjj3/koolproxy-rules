@@ -78,6 +78,7 @@
 !  去除水印 End
 
 !  防止卡住 Start
+|http://play.ufanw.com/js-view/showlayer.js
 |http://cdn.qipacao.com/ckplayer/push.js*$s@debugger;@@
 |http://cdn.qipacao.com/ckplayer/push.js*$s@'debugger'@''@
 !  防止卡住 End
