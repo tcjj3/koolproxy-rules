@@ -77,4 +77,9 @@
 |http://www.rkpass.cn/image/logo_rkpass_mini_bg.jpg
 !  去除水印 End
 
+!  防止卡住 Start
+|http://cdn.qipacao.com/ckplayer/push.js*$s@debugger;@@
+|http://cdn.qipacao.com/ckplayer/push.js*$s@'debugger'@''@
+!  防止卡住 End
+
 
