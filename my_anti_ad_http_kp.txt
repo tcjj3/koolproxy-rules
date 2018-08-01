@@ -56,5 +56,6 @@
 ||my.rtmark.net
 ||mt.rtmark.net
 |http://click.alibaba.com/*
+|http://hbd.url.cn/myapp/qq_desk/blessing/formal/banner/*
 
 
