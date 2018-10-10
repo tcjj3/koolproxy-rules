@@ -83,4 +83,149 @@
 |http://cdn.qipacao.com/ckplayer/push.js*$s@'debugger'@''@
 !  防止卡住 End
 
+!  “老子软考”APP 破解 Start
+|http://47.95.217.227:8080/lzrk/user/*$s@"code":@"code":0,"code_Cracked":@
+|http://47.95.217.227:8080/lzrk/user/*$s@"msg":@"msg":"查询成功","msg_Cracked":@
+|http://47.95.217.227:8080/lzrk/user/*$s@"uid":@"uid":"Cracked By QQ:495825947","uid_Cracked":@
+|http://47.95.217.227:8080/lzrk/user/*$s@"time":@"time":253402271999999,"time_Cracked":@
+|http://47.95.217.227:8080/lzrk/user/*$s@"username":@"username":"破解 By QQ:495825947","username_Cracked":@
+|http://47.95.217.227:8080/lzrk/user/*$s@"status":@"status":"0","status_Cracked":@
+!  “老子软考”APP 破解 End
+
+!  “未来教育”APP 破解 Start
+|http://115.28.168.160/WebService.asmx//CheckSnExists*$s@false@true@
+|http://115.28.168.160/WebService.asmx/CheckSnExists*$s@false@true@
+|http://115.28.168.160/WebService.asmx//UserRegister*$s@SnNotExist@Ok@
+|http://115.28.168.160/WebService.asmx/UserRegister*$s@SnNotExist@Ok@
+|http://115.28.168.160/WebService.asmx*$s@SnNotExist@Ok@
+|http://115.28.168.160/WebService.asmx*$s@false@true@
+|http://www.weilaijiaoyu.cn/CheckRegisterService.asmx/CheckString*$s@fail@ok@
+|http://t7z.cupid.iqiyi.com/show2
+!  “未来教育”APP 破解 End
+
+
+!  “手机酷狗”APP 破解 Start
+|http://mvads.kugou.com/mobile/*$s@"info":@"info":[],"info_Cracked":@
+|http://ads.service.kugou.com/v2/mobile_flash*$s@"info":@"info":[],"info_Cracked":@
+
+|http://mobilecdngz.kugou.com/api/v3/search/song*$s@"sqprivilege":@"sqprivilege":0,"sqprivilege_Cracked":@
+|http://mobilecdngz.kugou.com/api/v3/search/song*$s@"privilege":@"privilege":0,"privilege_Cracked":@
+|http://mobilecdngz.kugou.com/api/v3/search/song*$s@"320privilege":@"320privilege":0,"320privilege_Cracked":@
+
+|http://userinfo.user.kugou.com/v2/get_grade_info*$s@"star_status":@"star_status":1,"star_status_Cracked":@
+|http://userinfo.user.kugou.com/v2/get_grade_info*$s@"star_id":@"star_id":1,"star_id_Cracked":@
+|http://userinfo.user.kugou.com/v2/get_grade_info*$s@"auth_info":@"auth_info":"","auth_info_Cracked":@
+|http://userinfo.user.kugou.com/v2/get_grade_info*$s@"status":@"status":1,"status_Cracked":@
+|http://userinfo.user.kugou.com/v2/get_grade_info*$s@"biz_status":@"biz_status":1,"biz_status_Cracked":@
+|http://userinfo.user.kugou.com/v2/get_grade_info*$s@"tme_star_status":@"tme_star_status":1,"tme_star_status_Cracked":@
+
+|http://userinfo.user.kugou.com/v1/get_status_list*$s@"star_status":@"star_status":1,"star_status_Cracked":@
+|http://userinfo.user.kugou.com/v1/get_status_list*$s@"star_id":@"star_id":1,"star_id_Cracked":@
+|http://userinfo.user.kugou.com/v1/get_status_list*$s@"auth_info":@"auth_info":"","auth_info_Cracked":@
+|http://userinfo.user.kugou.com/v1/get_status_list*$s@"status":@"status":1,"status_Cracked":@
+|http://userinfo.user.kugou.com/v1/get_status_list*$s@"biz_status":@"biz_status":1,"biz_status_Cracked":@
+|http://userinfo.user.kugou.com/v1/get_status_list*$s@"tme_star_status":@"tme_star_status":1,"tme_star_status_Cracked":@
+
+|http://login.user.kugou.com/v2/login_by_token*$s@"is_vip":@"is_vip":1,"is_vip_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"vip_type":@"vip_type":1,"vip_type_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"vip_begin_time":@"vip_begin_time":"2013-09-01 00:00:00","vip_begin_time_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"vip_token":@"vip_token":"1","vip_token_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"vip_end_time":@"vip_end_time":"9999-12-31 23:59:59","vip_end_time_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"m_begin_time":@"m_begin_time":"2013-09-01 00:00:00","m_begin_time_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"m_end_time":@"m_end_time":"9999-12-31 23:59:59","m_end_time_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"m_type":@"m_type":1,"m_type_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"y_type":@"y_type":1,"y_type_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"show_fx_icon":@"show_fx_icon":1,"show_fx_icon_Cracked":@
+|http://login.user.kugou.com/v2/login_by_token*$s@"is_star":@"is_star":1,"is_star_Cracked":@
+
+|http://relation.user.kugou.com/v1/userinfo*$s@"is_vip":@"is_vip":1,"is_vip_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"vip_type":@"vip_type":1,"vip_type_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"vip_begin_time":@"vip_begin_time":"2013-09-01 00:00:00","vip_begin_time_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"vip_token":@"vip_token":"1","vip_token_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"vip_end_time":@"vip_end_time":"9999-12-31 23:59:59","vip_end_time_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"m_begin_time":@"m_begin_time":"2013-09-01 00:00:00","m_begin_time_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"m_end_time":@"m_end_time":"9999-12-31 23:59:59","m_end_time_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"m_type":@"m_type":1,"m_type_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"y_type":@"y_type":1,"y_type_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"show_fx_icon":@"show_fx_icon":1,"show_fx_icon_Cracked":@
+|http://relation.user.kugou.com/v1/userinfo*$s@"is_star":@"is_star":1,"is_star_Cracked":@
+
+|http://usercenter.kugou.com/v1/get_my_info*$s@"is_vip":@"is_vip":1,"is_vip_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"vip_type":@"vip_type":1,"vip_type_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"vip_begin_time":@"vip_begin_time":"2013-09-01 00:00:00","vip_begin_time_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"vip_token":@"vip_token":"1","vip_token_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"vip_end_time":@"vip_end_time":"9999-12-31 23:59:59","vip_end_time_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"m_begin_time":@"m_begin_time":"2013-09-01 00:00:00","m_begin_time_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"m_end_time":@"m_end_time":"9999-12-31 23:59:59","m_end_time_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"m_type":@"m_type":1,"m_type_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"y_type":@"y_type":1,"y_type_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"show_fx_icon":@"show_fx_icon":1,"show_fx_icon_Cracked":@
+|http://usercenter.kugou.com/v1/get_my_info*$s@"is_star":@"is_star":1,"is_star_Cracked":@
+
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"exclusive_status":@"exclusive_status":"-1","exclusive_status_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"privilege":@"privilege":0,"privilege_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"price":@"price":0,"price_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"pay_type":@"pay_type":0,"pay_type_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"pkg_price":@"pkg_price":0,"pkg_price_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"status":@"status":1,"status_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"old_hide":@"old_hide":1,"old_hide_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"fail_process":@"fail_process":0,"fail_process_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"_errno":@"_errno":0,"_errno_Cracked":@
+|http://media.store.kugou.com/v1/get_res_privilege*$s@"_msg":@"_msg":"Allow: the audio without any copyright.","_msg_Cracked":@
+!  “手机酷狗”APP 破解 End
+
+
+!  “酷狗”APP 破解 Start
+!  |http://media.store.kugou.com/v1/get_res_privilege*$s@
+
+|http://songsearch.kugou.com/song_search_v2*$s@"AlbumPrivilege":@"AlbumPrivilege":0,"AlbumPrivilege_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"ASQPrivilege":@"ASQPrivilege":0,"ASQPrivilege_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"Privilege":@"Privilege":0,"Privilege_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"A320Privilege":@"A320Privilege":0,"A320Privilege_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"HQPrivilege":@"HQPrivilege":0,"HQPrivilege_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"SQPrivilege":@"SQPrivilege":0,"SQPrivilege_Cracked":@
+
+|http://songsearch.kugou.com/song_search_v2*$s@"HQPrice":@"HQPrice":0,"HQPrice_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"PkgPrice":@"PkgPrice":0,"PkgPrice_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"SQPrice":@"SQPrice":0,"SQPrice_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"Price":@"Price":0,"Price_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"HQPkgPrice":@"HQPkgPrice":0,"HQPkgPrice_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"SQPkgPrice":@"SQPkgPrice":0,"SQPkgPrice_Cracked":@
+
+|http://songsearch.kugou.com/song_search_v2*$s@"SQPayType":@"SQPayType":0,"SQPayType_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"HQPayType":@"HQPayType":0,"HQPayType_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"PayType":@"PayType":0,"PayType_Cracked":@
+
+|http://songsearch.kugou.com/song_search_v2*$s@"SQFailProcess":@"SQFailProcess":0,"SQFailProcess_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"FailProcess":@"FailProcess":0,"FailProcess_Cracked":@
+|http://songsearch.kugou.com/song_search_v2*$s@"HQFailProcess":@"HQFailProcess":0,"HQFailProcess_Cracked":@
+!  “酷狗”APP 破解 End
+
+
+!  “英语练习系统”或“office2010练习系统” 破解 Start
+|http://120.24.254.131:8008/lyywservice.asmx*$s@<pro_courseid>0<pro_usetype>@<pro_courseid>1<pro_usetype>@
+|http://120.24.254.131:8008/lyywservice.asmx*$s@<pro_courseid>2<pro_usetype>@<pro_courseid>1<pro_usetype>@
+|http://120.24.254.131:8008/lyywservice.asmx*$s@</v_datetime>@</v_datetime_Cracked>@
+|http://120.24.254.131:8008/lyywservice.asmx*$s@<v_datetime>@<v_datetime>9999-12-31 23:59:59</v_datetime><v_datetime_Cracked>@
+|http://120.24.254.131:8008/lyywservice.asmx*$s@</pro_error>@</pro_error_Cracked>@
+|http://120.24.254.131:8008/lyywservice.asmx*$s@<pro_error>@<pro_error>软件已经破解，破解 By ☆在线黑客☆ QQ: 495825947</pro_error><pro_error_Cracked>@
+!  “英语练习系统”或“office2010练习系统” 破解 End
+
+
+!  “小蜜蜂”软考题库系列破解 Start
+|oaysucudf.bkt.clouddn.com/hello_world_pm_black.json*$s@"msg":@"msg":[],"msg_Cracked":@
+|oayrtu6ip.bkt.clouddn.com/it_black_sec.json*$s@"msg":@"msg":[],"msg_Cracked":@
+|oayrtu6ip.bkt.clouddn.com/it_black_three.json*$s@"msg":@"msg":[],"msg_Cracked":@
+|oayrtu6ip.bkt.clouddn.com/it_black_pmp.json*$s@"msg":@"msg":[],"msg_Cracked":@
+|coding.net/u/examexp/p/beauty_img_it/git/raw/master/hello_world_pm_black.json*$s@"msg":@"msg":[],"msg_Cracked":@
+|oaysucudf.bkt.clouddn.com/it_black_three.json*$s@"msg":@"msg":[],"msg_Cracked":@
+|oaysucudf.bkt.clouddn.com/it_black_sec.json.json*$s@"msg":@"msg":[],"msg_Cracked":@
+
+|oayrtu6ip.bkt.clouddn.com/hello_world_pm_white.json*$s@"msg":@"msg":[{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITPM","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITNET","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_JianLi","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XiFengf","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DS","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DB","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_CD","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_PMP","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XA","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ONE","notes":""}],"msg_Cracked":@
+|oayrtu6ip.bkt.clouddn.com/it_white_sec.json*$s@"msg":@"msg":[{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITPM","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITNET","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_JianLi","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XiFengf","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DS","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DB","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_CD","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_PMP","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XA","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ONE","notes":""}],"msg_Cracked":@
+|oayrtu6ip.bkt.clouddn.com/it_white_three.json*$s@"msg":@"msg":[{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITPM","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITNET","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_JianLi","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XiFengf","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DS","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DB","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_CD","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_PMP","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XA","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ONE","notes":""}],"msg_Cracked":@
+|oayrtu6ip.bkt.clouddn.com/it_white_pmp.json*$s@"msg":@"msg":[{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITPM","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITNET","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_JianLi","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XiFengf","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DS","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DB","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_CD","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_PMP","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XA","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ONE","notes":""}],"msg_Cracked":@
+|coding.net/u/examexp/p/beauty_img_it/git/raw/master/hello_world_pm_white.json*$s@"msg":@"msg":[{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITPM","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ITNET","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_JianLi","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XiFengf","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DS","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_DB","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_CD","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_PMP","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"IT_XA","notes":""},{"phone":"Agile_Client_Error","begin_date":"2018-04-28","device_id":"Agile_Client_Error","end_date":"9999-12-31","life_result":"10001","src_from":"ONE","notes":""}],"msg_Cracked":@
+!  “小蜜蜂”软考题库系列破解 End
+
 
